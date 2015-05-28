@@ -1,0 +1,2 @@
+Do 28. Mai 14:54:56 CEST 2015
+insgesamt 20 drwxrwxr-x 3 sieg sieg 4096 Mai 28 14:54 ./ drwxr-xr-x 31 sieg sieg 4096 Mai 28 14:46 ../ drwxrwxr-x 8 sieg sieg 4096 Mai 28 14:53 .git/ -rw-rw-r-- 1 sieg sieg 30 Mai 28 14:54 test22.txt -rw-rw-r-- 1 sieg sieg 82 Mai 28 14:54 test.txt
