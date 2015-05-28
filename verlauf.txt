@@ -1,0 +1,41 @@
+ 1546  git init   # create a repository
+ 1547 
+ 1552  git status
+ 1553  git add test.txt # file to the repo
+
+
+
+
+# Änderungen durchführen und commiten
+ 1565  git commit test.txt 
+ 1566  git status
+ 1567  git show
+ 1568  git diff
+ 1569  git diff f03fbd1d30b64cd3ce0f6e1c5f0ff0d6d4ca5a35
+ 1571  git diff
+ 1576  git diff test22.txt
+ 1577  git status
+ 1578  git add test22.txt 
+ 1579  git diff test22.txt 
+ 1580  git status
+ 1581  git commit -a -m "naechste stufe"
+ 1582  git status
+ 1583  git show
+ 1584  git log
+
+ 1612  git config --global user.name "hxsieg"
+ 1613  git config --global user.email "hxsieg@gmail.com"
+  1630  git config --list # show default enties
+
+
+ 1615  git config --global credential.helper cache
+ 1616  git config --global credential.helper 'cache --timeout=3600'
+ 1617  git branch
+
+ 1620  git remote add origin https://github.com/hxsieg/hello-world.git # connet to a repository
+ 1621  git push -u origin master	# upload
+ 1623  git pull 					# download
+ 1625 
+ 1628  touch .gitignore 			# files die nicht berücksichtigt werden
+ 1629  vi .gitignore 
+
